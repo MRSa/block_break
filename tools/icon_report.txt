@@ -1,0 +1,9 @@
+images\bb_icon.png | dim=(128, 128) | avg=(253, 253, 253) | alpha=34
+--------------------------------------------------
+windows/runner/resources/app_icon.ico | dim=(256, 256) | avg=(253, 253, 253) | alpha=34 | MATCH
+web/favicon.png | dim=(32, 32) | avg=(253, 253, 253) | alpha=33 | MATCH
+web/icons/icon_192.png | dim=(192, 192) | avg=(253, 253, 253) | alpha=34 | MATCH
+web/icons/Icon-192.png | dim=(192, 192) | avg=(253, 253, 253) | alpha=34 | MATCH
+web/icons/Icon-512.png | dim=(512, 512) | avg=(253, 253, 253) | alpha=34 | MATCH
+android/app/src/main/res/mipmap-mdpi/ic_launcher.png | dim=(48, 48) | avg=(253, 253, 253) | alpha=33 | MATCH
+android/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png | dim=(192, 192) | avg=(253, 253, 253) | alpha=34 | MATCH
